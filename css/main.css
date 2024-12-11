@@ -1,0 +1,20 @@
+span{
+    display: inline-flex;
+    width:  36px;
+    height: 36px;
+    border-radius: 6px;
+    color: white;
+    background-color: crimson;
+    font-family: cursive;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+}
+span.empty{
+    background-color: #ffffff;
+}
+
+span.emptyg{
+    background-color: #ffffff;
+}
